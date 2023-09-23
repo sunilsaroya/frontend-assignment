@@ -1,0 +1,41 @@
+.owl-nav {
+    font-size: 30px;
+}
+
+.owl-prev {
+    position: absolute;
+    top: 35%;
+    left: 0px;
+   
+}
+
+.owl-next {
+    position: absolute;
+    right: 0px;
+    top: 35%;
+  
+}
+.owl-carousel .owl-dots{
+    display: block !important;
+    width: 100%;
+    text-align: center;
+  }
+  .owl-carousel button.owl-dot.active{
+  background-color: red !important;
+  }
+  .owl-carousel button.owl-dot{
+    background: blue !important;
+    height: 10px;
+    width: 5px;
+    margin: 5px;
+    border-radius: 50%;
+    padding: 5px !important;
+  } 
+  .p1{
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  .BlueColor{
+    border: 2px solid blue;
+  }
